@@ -19,5 +19,9 @@
   "homepage": "https://github.com/yash2709-c/ecommerceWebsite-react-node-#readme",
   "dependencies": {
     "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.12.0",
+    "eslint-plugin-react": "^7.29.4"
   }
 }
